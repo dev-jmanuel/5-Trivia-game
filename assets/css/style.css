@@ -1,0 +1,26 @@
+body {
+    background: #999;
+}
+
+#main {
+    text-align: center;
+    border: 5px solid black;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    
+}
+
+#gameStart {
+  display: none;
+}
+
+#start {
+    border: 1px solid black;
+    background: black;
+    color: white;
+    width: 90px;
+    height: 40px;
+
+ 
+}
